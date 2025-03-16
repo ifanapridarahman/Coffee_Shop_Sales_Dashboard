@@ -54,5 +54,22 @@ Dashboard ini dirancang untuk memonitor dan menganalisis performa penjualan di s
 ![Coffee_Shop_Sales_Dashboard](https://github.com/user-attachments/assets/eac2ce15-7c15-48eb-8a86-f89a8b06d8ea)
 - <a href="https://github.com/ifanapridarahman/Coffee_Shop_Sales_Dashboard/blob/main/Coffee_Shop_Sales_Dashboard.png">Dashboard</a>
 
+## Analisis Dashboard "Coffee Shop Sales" - Mei 2023
+Dashboard ini akan memberikan wawasan mendalam tentang performa penjualan coffee shop untuk bulan Mei 2023. Berikut adalah beberapa insight utama dari data yang ditampilkan
+1. **Ringkasan Kinerja Penjualan**
+   - **Total Sales**: $157K, mengalami peningkatan 31,8% atau meningkat $37,8K dibanding bulan sebelumnya
+   - **Total Order**: 33.527 transasksi, meningkat 32.3% atau terdapat 8.200 transaksi lebih banyak dibanding bulan sebelumnya
+   - **Total Quantity Sold**: 48.233 unit, meningkat 32.3% atau ada tambahan 11.800 unit produk terjual dibanding bulan lalu.
+2. **Tren Penjualan**
+   - Grafik **Sales Trend Over the Period** menunjukkan pola penjualan harian sepanjang bulan Mei.
+   - Terlihat adanya fluktuasi, dengan beberapa puncak penjualan pada hari-hari tertentu
+   - Avg Sales pada grafik Sales Trend Over the Period merepresentasikan rata-rata pendapatan per hari dalam bulan Mei
+3. **Analisis Penjualan Berdasarkan Waktu**
+   - **Sales by Weekend/Weekday**
+     - Penjualan hari kerja lebih tinggi dibandingkan akhir pekan ($117K vs $40)
+     - Hal ini menunjukkan bahwa coffee shop lebih ramai pada hari kerja, kemungkinan besar karena pelanggan pekerja kantoran
+   - **Sales by Days/Hours**
+     - Heatmap menunjukkan waktu-waktu dengan volume penjualan tertinggi, membantu dalam optimalisasi jam operasional dan strategi promosi.
+
 
 

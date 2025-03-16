@@ -80,6 +80,15 @@ Dashboard ini akan memberikan wawasan mendalam tentang performa penjualan coffee
    - Tren positif pada beberapa produk menunjukkan potensi peningkatan stok dan promosi lebih lanjut
 5. **Analisis Penjualan Berdasarkan Lokasi**
    - Hall's Kitchen ($52,20K) menjadi lokasi dengan penjualan tertinggi
+   - Astoria ($52,43K) dan Lower Manhattan ($53,70K) juga memiliki performa baik
+
+## Kesimpulan
+1. Peningkatan penjualan bulan Mei menunjukkan tren positif dibanding bulan sebelumnya
+2. Hari kerja lebih ramai dibandingkan akhir pekan, menunjukkan coffee shop melayani banyak pekerja atau pelanggan rutin
+3. Barista Espresso dan Kategori Coffe mendominasi penjualan, sehingga strategi promosi bisa difokuskan pada variasi ini
+4. Lokasi dengan performa terbaik dapat dijadikan acuan untuk meningkatkan strategi di cabang lain.
+
+**Catatan**: Untuk melihat data bulan lainnya, silakan akses melalui link Interaksi Dashboard
 
 
 

@@ -51,7 +51,8 @@ Dashboard ini dirancang untuk memonitor dan menganalisis performa penjualan di s
 - <a href="https://github.com/ifanapridarahman/Coffee_Shop_Sales_Dashboard/blob/main/Coffe%20Shop%20Sales.pbix">Dashboard</a>
 
 ## Tampilan Dashboard
-- <a href="https://github.com/ifanapridarahman/Coffee_Shop_Sales_Dashboard/blob/main/Coffee_Shop_Sales_Dashboard.png">Dashboard</a>
 ![Coffee_Shop_Sales_Dashboard](https://github.com/user-attachments/assets/eac2ce15-7c15-48eb-8a86-f89a8b06d8ea)
+- <a href="https://github.com/ifanapridarahman/Coffee_Shop_Sales_Dashboard/blob/main/Coffee_Shop_Sales_Dashboard.png">Dashboard</a>
+
 
 

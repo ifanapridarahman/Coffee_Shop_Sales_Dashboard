@@ -70,6 +70,16 @@ Dashboard ini akan memberikan wawasan mendalam tentang performa penjualan coffee
      - Hal ini menunjukkan bahwa coffee shop lebih ramai pada hari kerja, kemungkinan besar karena pelanggan pekerja kantoran
    - **Sales by Days/Hours**
      - Heatmap menunjukkan waktu-waktu dengan volume penjualan tertinggi, membantu dalam optimalisasi jam operasional dan strategi promosi.
+4. **Analisis Produk Terlaris**
+   - **Kategori Terlaris**
+     - **Coffee** ($85,12K, naik 3,35%) mendominasi penjualan
+     - **Bakery** ($15,52K, naik 3,12%) juga menunjukkan pertumbuhan
+   - **Produk Terlaris**
+     - **Barista Espresso** menjadi produk dengan penjualan tertinggi
+     - Disusul oleh Brawed Chai, Hot Chocolate, dan Gourmet Brewed Coffee
+   - Tren positif pada beberapa produk menunjukkan potensi peningkatan stok dan promosi lebih lanjut
+5. **Analisis Penjualan Berdasarkan Lokasi**
+   - Hall's Kitchen ($52,20K) menjadi lokasi dengan penjualan tertinggi
 
 
 

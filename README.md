@@ -46,6 +46,10 @@ Dashboard ini dirancang untuk memonitor dan menganalisis performa penjualan di s
 7. **Analisis Penjualan berdasarkan Hari dan Jam**
    - Menggunakan heat map untuk memvisualisasikan pola penjualan berdasarkan hari dan jam
    - Menambahkan tooltip untuk menampilkan metrik detail (Penjualan, Pesanan, Kuantitas) saat mengarahkan kursos ke hari dan jam tertentu
+  
+## Perhitungan dengan Menggunakan MySQL Workbench
+- <a href="https://github.com/ifanapridarahman/Coffee_Shop_Sales_Dashboard/blob/main/Coffee_Shop_Sales_Query.sql">Query</a>
+- <a href="https://github.com/ifanapridarahman/Coffee_Shop_Sales_Dashboard/blob/main/Penjelasan%20Queries%20Coffee%20Shop%20Sales.docx">Penjelasan Query</a>
 
 ## Interaksi Dashboard
 - <a href="https://github.com/ifanapridarahman/Coffee_Shop_Sales_Dashboard/blob/main/Coffe%20Shop%20Sales.pbix">Dashboard</a>
